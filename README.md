@@ -85,8 +85,8 @@ Want early access?
 Interested in integrating into your supply chain?  
 Just curious how it works?
 
-**→ hello@tariflow.app**  
-or [open an issue](https://github.com/your-github-here/tariflow-demo/issues)
+**→ tech@coconests.llc**  
+or [open an issue](https://github.com/coconests/tariflow-demo/issues)
 
 ---
 © 2025 Tariflow. Built with ❤️ by a solo founder.
